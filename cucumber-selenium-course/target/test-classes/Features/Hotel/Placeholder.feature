@@ -1,0 +1,1 @@
+Feature: TestLab Hotel Tests
